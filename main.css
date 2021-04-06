@@ -1,0 +1,34 @@
+body{
+    background: rgb(251, 249, 243);
+}
+
+.icon{
+    width: 35%;
+    height: auto;
+    margin: auto;
+}
+
+.svg_container1{
+    width: 50%; 
+    height: auto;
+    margin: auto;
+    padding-top: 2%;
+}
+
+.svg_container2{
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
+
+.svg_container3{
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+.svg_container4{
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
